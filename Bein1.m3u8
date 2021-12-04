@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:26
+#EXT-X-MEDIA-SEQUENCE:290265
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXTINF:10.0,
+#https://cdn13jtedge.useetv.com/dass/133/beib1_dash/media_w7715899232_b1344100_sleng_290262.ts
+#EXTINF:10.0,
+#https://cdn13jtedge.useetv.com/dass/133/beib1_dash/media_w7715899232_b1344100_sleng_290263.ts
+#EXTINF:10.0,
+#https://cdn13jtedge.useetv.com/dass/133/beib1_dash/media_w7715899232_b1344100_sleng_290264.ts
