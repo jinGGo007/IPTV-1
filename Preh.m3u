@@ -33,7 +33,7 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="Nasional",RCTI+
-#EXTHTTP:{"referer":"https://www.rctiplus.com/"}
+#EXTHTTP:{"referer":"https://www.rctiplus.com/", "Origin":"https://www.rctiplus.com"}
 https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
